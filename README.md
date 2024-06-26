@@ -10,5 +10,5 @@ pip install -r requirements.txt
 ## How to run
 
 ```
-simply run the file run.sh in shell
+simply run the file run.sh in shell using command **./run.sh**
 ```
